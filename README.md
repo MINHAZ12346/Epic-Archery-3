@@ -1,1 +1,1 @@
-# Epic-Archery-3
+# project-C26-template
